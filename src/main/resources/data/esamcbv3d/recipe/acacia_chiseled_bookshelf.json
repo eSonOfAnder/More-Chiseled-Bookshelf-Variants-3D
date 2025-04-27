@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chiseled_bookshelves",
+  "key": {
+    "#": "minecraft:acacia_planks",
+     "-": "minecraft:acacia_slab"
+        },
+   "pattern":  [
+  "###",
+  "---",
+  "###"
+ ],
+  "result": {
+    "count": 1,
+    "id": "esamcbv3d:acacia_chiseled_bookshelf"
+  }
+}

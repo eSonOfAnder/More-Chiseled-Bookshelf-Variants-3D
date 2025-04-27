@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chiseled_bookshelves",
+  "key": {
+    "#": "minecraft:birch_planks",
+     "-": "minecraft:birch_slab"
+        },
+   "pattern":  [
+  "###",
+  "---",
+  "###"
+ ],
+  "result": {
+    "count": 1,
+    "id": "esamcbv3d:birch_chiseled_bookshelf"
+  }
+}

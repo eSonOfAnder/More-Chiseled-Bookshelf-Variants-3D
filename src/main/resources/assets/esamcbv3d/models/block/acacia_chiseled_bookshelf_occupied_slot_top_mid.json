@@ -1,0 +1,19 @@
+{
+  "credit": "Based on work by Stridey",
+  "texture_size": [32, 16],
+  "textures": {
+    "book": "esamcbv3d:block/acacia_chiseled_bookshelf_occupied",
+    "ends": "minecraft:block/chiseled_bookshelf_book_ends"
+  },
+  "elements": [
+    {
+      "from": [6, 9, 0],
+      "to": [10, 15, 6],
+      "faces": {
+        "north": {"uv": [6, 1, 10, 7], "texture": "#book", "cullface": "north"},
+        "east": {"uv": [3, 1, 6, 7], "texture": "#ends"},
+        "west": {"uv": [3, 1, 6, 7], "texture": "#ends"}
+      }
+    }
+  ]
+}

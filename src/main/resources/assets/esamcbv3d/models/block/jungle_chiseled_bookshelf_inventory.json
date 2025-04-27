@@ -1,0 +1,9 @@
+{
+  "parent": "esamcbv3d:block/parent_chiseled_bookshelf_inventory",
+  "textures": {
+    "front": "esamcbv3d:block/jungle_chiseled_bookshelf_empty",
+    "particle": "esamcbv3d:block/jungle_chiseled_bookshelf_top",
+    "side": "esamcbv3d:block/jungle_chiseled_bookshelf_side",
+    "top": "esamcbv3d:block/jungle_chiseled_bookshelf_top"
+  }
+}

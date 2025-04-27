@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "esamcbv3d:warped_chiseled_bookshelf"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "esamcbv3d:blocks/warped_chiseled_bookshelf"
+}

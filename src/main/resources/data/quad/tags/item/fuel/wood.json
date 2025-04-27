@@ -1,14 +1,14 @@
 {
   "replace": false,
   "values": [
-    "lolmcbv:spruce_chiseled_bookshelf",
-    "lolmcbv:birch_chiseled_bookshelf",
-    "lolmcbv:jungle_chiseled_bookshelf",
-    "lolmcbv:acacia_chiseled_bookshelf",
-    "lolmcbv:dark_oak_chiseled_bookshelf",
-    "lolmcbv:pale_oak_chiseled_bookshelf",
-    "lolmcbv:mangrove_chiseled_bookshelf",
-    "lolmcbv:cherry_chiseled_bookshelf",
-    "lolmcbv:bamboo_chiseled_bookshelf"
+    "esamcbv3d:spruce_chiseled_bookshelf",
+    "esamcbv3d:birch_chiseled_bookshelf",
+    "esamcbv3d:jungle_chiseled_bookshelf",
+    "esamcbv3d:acacia_chiseled_bookshelf",
+    "esamcbv3d:dark_oak_chiseled_bookshelf",
+    "esamcbv3d:pale_oak_chiseled_bookshelf",
+    "esamcbv3d:mangrove_chiseled_bookshelf",
+    "esamcbv3d:cherry_chiseled_bookshelf",
+    "esamcbv3d:bamboo_chiseled_bookshelf"
   ]
 }
