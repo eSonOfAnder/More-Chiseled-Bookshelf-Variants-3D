@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "#lieonstudio:chiseled_bookshelves"
+    "#esonofander:chiseled_bookshelves"
   ],
   "result": {
     "count": 1,
